@@ -13,7 +13,7 @@
     "@clerk/nextjs": "^6.12.0",
     "framer-motion": "^12.0.0",
     "lucide-react": "^0.475.0",
-    "next": "15.4.1",
+    "next": "^16.2.4",
     "react": "^19.0.3",
     "react-dom": "^19.0.3"
   },
